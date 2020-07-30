@@ -1,0 +1,11 @@
+__pycache__/
+data/
+sharptab/__pycache__/
+images/
+realtime/data/
+realtime/__pycache__/
+soundings/
+utils/__pycache__/
+utils/.DS_Store
+.DS_Store
+derived.nc
